@@ -6,7 +6,6 @@ import net.md_5.bungee.api.chat.ComponentBuilder;
 import net.md_5.bungee.api.plugin.Command;
 
 /**
- *
  * @author NZNetwork
  */
 public class BungeeTestCommand extends Command {
