@@ -1,4 +1,6 @@
 *.class
+.classpath
+.project
 build.xml
 manifest.mf
 
@@ -12,7 +14,8 @@ manifest.mf
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/NZNBungee/nbproject/private/
-/dist/
+
+/bin/
 /build/
+/dist/
 /nbproject/
